@@ -25,3 +25,49 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+body {
+    background-image: url(https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg);
+    background-size: 100%;
+    background-color: #cccccc;
+}
+
+#row1 {
+    margin-left: 30%;
+    margin-right: 38%;
+}
+
+#row1-section2 {
+    background-color: lightskyblue;
+    color: white;
+    border: 3px solid orange;
+    border-radius: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+#row2-section2 {
+    background-color: crimson;
+    color: white;
+    border: 3px solid green;
+    margin-left: 50%;
+    margin-right: 18%;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+#row2-section1 {
+    margin-left: 50%;
+    box-shadow: 3px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: rgb(149, 77, 182);
+    text-align: center;
+    background-image: linear-gradient(lightskyblue, red);
+    border-radius: 25px;
+    margin-left: 30%;
+    margin-right: 19%;
+    padding: 5px;
+}
